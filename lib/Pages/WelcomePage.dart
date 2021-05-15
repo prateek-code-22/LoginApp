@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:welcomebuddy/Widgets/drawer.dart';
 
 class WelcomePage extends StatelessWidget {
   @override
@@ -11,6 +12,7 @@ class WelcomePage extends StatelessWidget {
       body: Center(
         child: Image.asset("assets/welcome.png"),
       ),
+      drawer: MyDrawer(),
     );
   }
 }
