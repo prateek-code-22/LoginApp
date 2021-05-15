@@ -1,16 +1,17 @@
-# welcomebuddy
+# Login App
+A Simple Login App build using Flutter. I made this under #30DaysOfFlutter challenege.
 
-A new Flutter project.
+### ScreenShots:
+<img src="https://user-images.githubusercontent.com/61473947/118128658-d32ba600-b418-11eb-8a6c-50c0272279a8.png" height="400em"/> <img src="https://user-images.githubusercontent.com/61473947/118128725-eccced80-b418-11eb-8fca-3231b3c4115b.jpeg" height="400em"/>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Things you learn
+* Adding Image and GoogleFont
+* Customizing the Appbar
+* TextFieldForm  
+* Elevation Button
+* Navigation 
+* Solving overflow error with SingleChildScrollView
 
-A few resources to get you started if this is your first Flutter project:
+#### Tutorial Link: https://www.youtube.com/playlist?list=PLrjrqTcKCnhTXI2GyPkaQF47inLp6LoIC
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
